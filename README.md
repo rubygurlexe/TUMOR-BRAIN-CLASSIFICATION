@@ -1,2 +1,21 @@
-# TUMOR-BRAIN-CLASSIFICATION
-Proyek ini adalah aplikasi web berbasis Flask yang menggunakan model deep learning untuk mengklasifikasikan tiga jenis tumor otak: Meningioma, Glioma, dan Pituitari, berdasarkan gambar MRI. Tujuannya adalah membantu proses diagnosis medis dengan memberikan hasil yang cepat dan akurat.
+# 🧠 Brain Tumor Classifier
+
+**Klasifikasi Tumor Otak dalam Sekejap!**  
+Proyek ini adalah aplikasi web berbasis Flask yang memanfaatkan kekuatan AI untuk menganalisis gambar MRI otak. Dalam hitungan detik, aplikasi ini dapat mengenali jenis tumor otak, membantu para profesional medis mengambil keputusan lebih cepat.
+
+---
+
+## ✨ **Fitur Utama**
+- 🔍 **Identifikasi Tumor**: Prediksi jenis tumor otak dengan akurasi tinggi (Meningioma, Glioma, atau Pituitari).  
+- 📂 **Unggah Gambar**: Cukup unggah gambar MRI Anda dan biarkan AI bekerja.  
+- ⚡ **Cepat & Akurat**: Hasil dalam hitungan detik dengan tingkat akurasi 92%.  
+
+---
+
+## 🚀 **Langkah Instalasi**
+Ikuti langkah mudah ini untuk menjalankan aplikasi di komputer Anda:
+
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/USERNAME/REPOSITORY_NAME.git
+cd REPOSITORY_NAME

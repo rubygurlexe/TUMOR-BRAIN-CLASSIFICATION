@@ -15,16 +15,16 @@ Proyek ini adalah aplikasi web berbasis Flask yang memanfaatkan kekuatan AI untu
 ## 🚀 **Langkah Instalasi**
 Ikuti langkah mudah ini untuk menjalankan aplikasi di komputer Anda:
 
-### 1.  Clone Repository
-```bash
+1. Clone Repository
+ ```bash
            git clone https://github.com/rubygurlexe/TUMOR-BRAIN-CLASSIFICATION.git
            TUMOR-BRAIN-CLASSIFICATION
 
-### 2️⃣ Buat Virtual Environment
+## 2️⃣ Buat Virtual Environment
 ```bash
-    # Untuk Linux/Mac
-    python3 -m venv venv
-    source venv/bin/activate
+               # Untuk Linux/Mac
+               python3 -m venv venv
+                          source venv/bin/activate
 
     # Untuk Windows
     python -m venv venv

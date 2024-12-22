@@ -39,9 +39,9 @@ Model deep learning kami menggunakan Convolutional Neural Network (CNN) untuk me
 
 - Input: Gambar MRI ukuran 150x150 piksel.
 - Output: Probabilitas dari tiga jenis tumor:
-  a. Meningioma
-  b. Glioma
-  c. Pituitari
+           - Meningioma
+           - Glioma
+           - Pituitari
 
 ## 🧪 Performansi Model
 Akurasi: 92%

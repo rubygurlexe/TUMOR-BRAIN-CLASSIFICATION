@@ -18,6 +18,5 @@ Ikuti langkah mudah ini untuk menjalankan aplikasi di komputer Anda:
 ### 1️⃣ Clone Repository
 ```bash
 git clone https://github.com/rubygurlexe/TUMOR-BRAIN-CLASSIFICATION.git
-cd REPOSITORY_NAME
+TUMOR-BRAIN-CLASSIFICATION
 
-### 2️⃣ Buat Virtual Environment

@@ -46,3 +46,10 @@ Model deep learning kami menggunakan Convolutional Neural Network (CNN) untuk me
 ## 🧪 Performansi Model
 Akurasi: 92%
 F1-Score: 0.90
+Accuracy
+![image](https://github.com/user-attachments/assets/f22ea137-9a5b-42d8-aa85-8beb8c382975)
+
+loss
+![image](https://github.com/user-attachments/assets/ff0bc578-df3f-441e-b7bb-192c058d9b6b)
+
+
